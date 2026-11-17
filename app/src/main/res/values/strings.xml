@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Temperature</string>
+    <string name="app_name">Sensores</string>
+    <string name="temperature_title">Sensor de temperatura</string>
+    <string name="light_title">Sensor de luz</string>
 </resources>

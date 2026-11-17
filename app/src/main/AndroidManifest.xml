@@ -27,6 +27,18 @@
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
+
+        <activity
+            android:name=".TemperatureActivity"
+            android:exported="false"
+            android:label="@string/temperature_title"
+            android:theme="@style/Theme.Temperature" />
+
+        <activity
+            android:name=".LightActivity"
+            android:exported="false"
+            android:label="@string/light_title"
+            android:theme="@style/Theme.Temperature" />
     </application>
 
 </manifest>
